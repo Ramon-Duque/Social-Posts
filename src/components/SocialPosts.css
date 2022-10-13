@@ -1,0 +1,32 @@
+ h1 {
+    font-family: 'Homemade Apple', cursive;
+    color: #03a9f4;
+    display: flex;
+    justify-content: center;
+}
+
+.contBackground{
+    
+    
+}
+
+.openModalBtn {
+    color: white;
+    background-color:  #03a9f4;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: 'Dosis', sans-serif;
+    font-size: large;
+    font-weight: 900;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 300px;
+    width: 50%;
+    padding: 10px;
+    
+}
+
+ul {
+    background-color: white;
+}
+
